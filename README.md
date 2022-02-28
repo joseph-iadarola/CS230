@@ -15,3 +15,17 @@
 # I took what I was given and made the most of it when creating the design documentation but in the future, I would ask more questions about the project because I work well when all my questions have been answered or at least asked in the case that a decision is left to me. 
 
  
+# CS 305
+ 
+# Artemis Financial is an international banking company that needed to implement a way to securly communicate using an encryption algorithm cipher.
+
+# I think I was able to find the vulnerabilities that were critical to understand when giving a recommendation. It is important to code securly because the company will lose money if there is information leackage. The software security adds peace of mind value and accountablility.
+
+# I worked through the vulnerabllity assessment step by step so that I did not miss anything. This also made it take longer which was challenging.
+
+# I went to a publilc forum to find how to begin and went from there. I will need to remember to account for the need for security when planning my code in the future.
+
+# I tested the code to make sure it was finctional and secure. I continued to test after refactoring the code.
+
+# I think the dependency check report is a tool I will be using in the future. 
+# I think I will show them the refactored code that adds layers of security.
