@@ -33,4 +33,11 @@
 
 # CS 255
 
-# DriverPass wants a website that customers can log into. the website: make lesson appointments 
+# DriverPass wants a website that customers can log into. the website: make lesson appointments and take practice driving tests.
+
+# I think I made clear and easy to understand diagrams for the UML assignments.
+
+# I would make the gnatt chart which i never made.
+
+# I looked at the interview document and tried to understand their needs from that and also what I would want if i was a customer.
+# I took a overview approach because I need to understand the big picture so that I can find the little things that shouldnt be missed. in the future I will be looking at alternate methods to achieve the same result but in a more efficient method.
